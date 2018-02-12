@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Servicio de reproduccion musica"
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/btnArrancar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="arrancar"
+        android:text="iniciarServicio" />
+
+    <Button
+        android:id="@+id/btnDetener"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="parar"
+        android:text="pararServicio" />
+</LinearLayout>

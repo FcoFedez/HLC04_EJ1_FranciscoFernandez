@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ud4_MyService_00</string>
+    <string name="inicia_servicio">Iniciar Servicio</string>
+    <string name="para_servicio">Parar Servicio</string>
+    <string name="iniciarServicio">iniciarServicio</string>
+    <string name="pararServicio">pararServicio</string>
+
+</resources>

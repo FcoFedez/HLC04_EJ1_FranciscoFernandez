@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ud4_IntentService_Broadcast_04</string>
+    <string name="ArrancarServiciodescargaarchivo">Iniciar Servicio descarga archivo</string>
+</resources>
